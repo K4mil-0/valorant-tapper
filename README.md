@@ -5,7 +5,7 @@ W pełni funkcjonalna, rozbudowana aplikacja mobilna typu "clicker" osadzona w �
 ## 📱 Pobierz i przetestuj aplikację
 
 Chcesz sprawdzić, jak aplikacja działa w praktyce? Pobierz gotową wersję instalacyjną na swój telefon z systemem Android:
-[📥 Pobierz wersję APK na Androida](#) 
+[📥 Pobierz wersję APK na Androida](https://github.com/K4mil-0/valorant-tapper/releases/download/v1.0/nazwa-pliku.apk)
 *(Kliknij link, pobierz plik na telefon i zainstaluj aplikację. Zastąp ten znak '#' linkiem wygenerowanym przez serwery Expo po zakończeniu budowania!)*
 
 ## 🚀 Technologie
