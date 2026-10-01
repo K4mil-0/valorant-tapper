@@ -33,12 +33,26 @@ Chcesz sprawdzić, jak aplikacja działa w praktyce? Pobierz gotową wersję ins
 
 ## 🏙 Zdjęcia Poglądowe 
 
-<img width="720" height="1640" alt="Screenshot_2026-10-01-02-18-25-010_com k4mil valoranttapper" src="https://github.com/user-attachments/assets/00f9398d-448d-4e38-80f0-86c22fbee32a" />
-<img width="720" height="1640" alt="Screenshot_2026-10-01-02-18-23-409_com k4mil valoranttapper" src="https://github.com/user-attachments/assets/985b4279-691a-431c-8f96-6bd787a183bf" />
-<img width="720" height="1640" alt="Screenshot_2026-10-01-02-18-12-923_com k4mil valoranttapper" src="https://github.com/user-attachments/assets/ca0dcebf-6e48-48cf-9c9a-3e861deeae1c" />
-<img width="720" height="1640" alt="Screenshot_2026-10-01-02-17-54-665_com k4mil valoranttapper" src="https://github.com/user-attachments/assets/7201a9c4-6415-4aeb-835a-c6d467f640b6" />
-<img width="720" height="1640" alt="Screenshot_2026-10-01-02-17-28-047_com k4mil valoranttapper" src="https://github.com/user-attachments/assets/0b462d49-59c7-4795-b542-e5248ccc9033" />
-<img width="720" height="1640" alt="Screenshot_2026-10-01-02-17-12-710_com k4mil valoranttapper" src="https://github.com/user-attachments/assets/494edfe8-a325-4d35-ba33-2f40dceca05f" />
-<img width="720" height="1640" alt="Screenshot_2026-10-01-02-17-02-810_com k4mil valoranttapper" src="https://github.com/user-attachments/assets/b5328581-8049-4974-9667-964852b034a6" />
-<img width="720" height="1640" alt="Screenshot_2026-10-01-02-16-58-125_com k4mil valoranttapper" src="https://github.com/user-attachments/assets/9f5d43ff-917c-49ea-b6a7-d48823a30ded" />
+<img width="720" height="1640" alt="Screenshot_2026-10-01-02-16-58-125_com k4mil valoranttapper" src="https://github.com/user-attachments/assets/5c775915-bd64-400a-a19b-1640a0937dcd" />
+
+<img width="720" height="1640" alt="Screenshot_2026-10-01-02-17-02-810_com k4mil valoranttapper" src="https://github.com/user-attachments/assets/355dec43-fe0d-41a3-86a1-60e33c342e30" />
+
+<img width="720" height="1640" alt="Screenshot_2026-10-01-02-17-12-710_com k4mil valoranttapper" src="https://github.com/user-attachments/assets/7b272fcf-1e98-4015-af40-cc46f0ed351d" />
+
+<img width="720" height="1640" alt="Screenshot_2026-10-01-02-17-28-047_com k4mil valoranttapper" src="https://github.com/user-attachments/assets/3c9e9fa8-46d2-43f5-b0d0-a639a7bd926e" />
+
+
+<img width="720" height="1640" alt="Screenshot_2026-10-01-02-17-54-665_com k4mil valoranttapper" src="https://github.com/user-attachments/assets/3b2d6e23-6e6e-46d3-93b6-3a3bbebcff3e" />
+
+<img width="720" height="1640" alt="Screenshot_2026-10-01-02-18-12-923_com k4mil valoranttapper" src="https://github.com/user-attachments/assets/cf47020c-f8cd-4d4f-8255-d08d2f268886" />
+
+
+<img width="720" height="1640" alt="Screenshot_2026-10-01-02-18-23-409_com k4mil valoranttapper" src="https://github.com/user-attachments/assets/096480b6-573a-43dd-a1f5-95d9b3e4a9a6" />
+
+
+<img width="720" height="1640" alt="Screenshot_2026-10-01-02-18-25-010_com k4mil valoranttapper" src="https://github.com/user-attachments/assets/3aa263bb-3185-4d0b-8427-c5d6f9005cd4" />
+
+
+
+
 
