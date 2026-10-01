@@ -32,11 +32,11 @@ Chcesz sprawdzić, jak aplikacja działa w praktyce? Pobierz gotową wersję ins
 3. **Uruchom serwer deweloperski:** `npx expo start`
 
 ## 🏙 Zdjęcia Poglądowe 
-
+<br>
 <img width="180" height="410" alt="Screenshot_2026-10-01-02-16-58-125_com k4mil valoranttapper" src="https://github.com/user-attachments/assets/5c775915-bd64-400a-a19b-1640a0937dcd" />
 
 <img width="180" height="410" alt="Screenshot_2026-10-01-02-17-02-810_com k4mil valoranttapper" src="https://github.com/user-attachments/assets/355dec43-fe0d-41a3-86a1-60e33c342e30" />
-
+<br>
 <img width="180" height="410" alt="Screenshot_2026-10-01-02-17-12-710_com k4mil valoranttapper" src="https://github.com/user-attachments/assets/7b272fcf-1e98-4015-af40-cc46f0ed351d" />
 
 <img width="180" height="410" alt="Screenshot_2026-10-01-02-17-28-047_com k4mil valoranttapper" src="https://github.com/user-attachments/assets/3c9e9fa8-46d2-43f5-b0d0-a639a7bd926e" />
@@ -44,7 +44,7 @@ Chcesz sprawdzić, jak aplikacja działa w praktyce? Pobierz gotową wersję ins
 <img width="180" height="410" alt="Screenshot_2026-10-01-02-17-54-665_com k4mil valoranttapper" src="https://github.com/user-attachments/assets/3b2d6e23-6e6e-46d3-93b6-3a3bbebcff3e" />
 
 <img width="180" height="410" alt="Screenshot_2026-10-01-02-18-12-923_com k4mil valoranttapper" src="https://github.com/user-attachments/assets/cf47020c-f8cd-4d4f-8255-d08d2f268886" />
-
+<br>
 <img width="180" height="410" alt="Screenshot_2026-10-01-02-18-23-409_com k4mil valoranttapper" src="https://github.com/user-attachments/assets/096480b6-573a-43dd-a1f5-95d9b3e4a9a6" />
 
 <img width="180" height="410" alt="Screenshot_2026-10-01-02-18-25-010_com k4mil valoranttapper" src="https://github.com/user-attachments/assets/3aa263bb-3185-4d0b-8427-c5d6f9005cd4" />
