@@ -1,4 +1,4 @@
-# 🖱️ Valorant Clicker
+# 🖱️ Valorant Tapper
 
 W pełni funkcjonalna, rozbudowana aplikacja mobilna typu "clicker" osadzona w świecie gry Valorant. Projekt stworzony w celach edukacyjnych oraz jako zaawansowany element portfolio, napisany w technologii React Native i Expo.
 
