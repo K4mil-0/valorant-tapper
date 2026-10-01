@@ -40,7 +40,7 @@ Chcesz sprawdzić, jak aplikacja działa w praktyce? Pobierz gotową wersję ins
 <img width="180" height="410" alt="Screenshot_2026-10-01-02-17-12-710_com k4mil valoranttapper" src="https://github.com/user-attachments/assets/7b272fcf-1e98-4015-af40-cc46f0ed351d" />
 
 <img width="180" height="410" alt="Screenshot_2026-10-01-02-17-28-047_com k4mil valoranttapper" src="https://github.com/user-attachments/assets/3c9e9fa8-46d2-43f5-b0d0-a639a7bd926e" />
-
+<br>
 <img width="180" height="410" alt="Screenshot_2026-10-01-02-17-54-665_com k4mil valoranttapper" src="https://github.com/user-attachments/assets/3b2d6e23-6e6e-46d3-93b6-3a3bbebcff3e" />
 
 <img width="180" height="410" alt="Screenshot_2026-10-01-02-18-12-923_com k4mil valoranttapper" src="https://github.com/user-attachments/assets/cf47020c-f8cd-4d4f-8255-d08d2f268886" />
